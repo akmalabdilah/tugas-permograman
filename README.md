@@ -82,4 +82,8 @@ local, gunakan perintah git commit -m "nama project"
 
 - Selesai
 
-## TERIMAKASIH
+
+<div>
+<h2 align="center">Thanks For Reading!!!</h2>
+<div align="center">
+<img src="https://user-images.githubusercontent.com/91085882/222731693-24383140-7623-4e7a-a528-6621380b7be8.gif">
